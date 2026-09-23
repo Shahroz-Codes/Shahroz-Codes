@@ -29,12 +29,6 @@
 
 I am a full-stack engineer focused on turning product ideas into clean, secure, and usable web applications. My work lives at the intersection of thoughtful interfaces, reliable APIs, and data models that stay understandable as a product grows.
 
-```text
-PRODUCT THINKING     →     CLEAN ARCHITECTURE     →     SHIPPED SOFTWARE
-user flows                  secure APIs                  useful outcomes
-responsive UI                tested boundaries            deployable systems
-```
-
 <div align="center">
 
 | 3 | MERN | End-to-end |
@@ -43,37 +37,19 @@ responsive UI                tested boundaries            deployable systems
 
 </div>
 
-## What I bring to a team
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Product-minded
-
-I care about the complete workflow, not just the component or endpoint in front of me. I build interfaces that make the next action obvious.
-
-</td>
-<td width="33%" valign="top">
-
-### Backend-aware
-
-I design REST APIs with validation, authentication, ownership checks, and a clear separation between routes, controllers, and middleware.
-
-</td>
-<td width="33%" valign="top">
-
-### Built to ship
-
-I work comfortably across frontend, backend, databases, Git, and deployment platforms to move a feature from a blank page to a working release.
-
-</td>
-</tr>
-</table>
-
 ## Selected work
 
-### 01 · Freelancer Workspace
+### 01 · StudyRoom
+
+**A collaborative study and event platform for students.** Discover study groups, join focused learning spaces, and RSVP to events through a modern full-stack experience.
+
+`Next.js` `TypeScript` `Node.js` `MongoDB`
+
+<a href="https://github.com/Shahroz-Codes/StudyRoom">View repository →</a>
+
+---
+
+### 02 · Freelancer Workspace
 
 **A focused operating system for freelance work.** Manage projects and tasks with secure authentication, ownership-level access control, and a REST API designed around real workflows.
 
@@ -83,7 +59,7 @@ I work comfortably across frontend, backend, databases, Git, and deployment plat
 
 ---
 
-### 02 · TownSquare
+### 03 · TownSquare
 
 **A digital town square for local communities.** Discover events, post volunteer opportunities, share feedback, and give administrators the tools to understand activity through a dedicated dashboard.
 
@@ -93,49 +69,41 @@ I work comfortably across frontend, backend, databases, Git, and deployment plat
 
 ---
 
-### 03 · BlogVerse
-
-**A modern publishing experience for creating and managing ideas.** Write with a rich-text editor, navigate smoothly, and manage posts with ownership-aware edit and delete controls.
-
-`React` `Vite` `Redux Toolkit` `Appwrite` `Tailwind CSS`
-
-<a href="https://github.com/Shahroz-Codes/BlogVerse">View repository →</a>
-
 ## Technical toolkit
 
-<div align="center">
+### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-</div>
+### Frontend
 
-<details>
-<summary><strong>More of the toolkit</strong></summary>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
 
-<br />
+### Backend
 
-`REST API Design` · `JWT` · `MVC` · `RBAC` · `Data Structures` · `OOP` · `Database Systems` · `Postman` · `Vite` · `Render` · `Appwrite` · `VS Code`
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
 
-</details>
+### Databases and Services
 
-## Engineering principles
+![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 
-> **Make the interface clear.** Users should not need to study the product to use it.
+### Tools and Platforms
 
-> **Keep boundaries honest.** Authentication, validation, and authorization belong in deliberate layers.
-
-> **Ship the useful version.** A small working product creates better feedback than a perfect unfinished one.
+![Git](https://img.shields.io/badge/Git-B91C1C?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F97316?style=flat-square&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0F766E?style=flat-square&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## Credentials
 
