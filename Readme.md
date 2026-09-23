@@ -52,14 +52,15 @@ I am a full-stack engineer focused on turning product ideas into clean, secure, 
 
 **Tech stack**
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js 16](https://img.shields.io/badge/Next.js%2016-111827?style=flat-square&logo=next.js&logoColor=white)
+![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/Auth.js%20%2F%20NextAuth-111827?style=flat-square&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-111827?style=flat-square&logo=letsencrypt&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
