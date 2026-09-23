@@ -1,11 +1,16 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Shahroz-Codes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
 # Hi, I'm Shahroz Shafqat 👋
 
-### Full-Stack Developer
+### Full-Stack Developer | MERN Stack
 
-I build practical, user-focused web products and document what I learn along the way.
-<a href="https://www.linkedin.com/in/Shahroz%Shafqat">
+Final-year Computer Science student with hands-on experience building full-stack web applications using the MERN stack. Focused on clean API design, secure authentication, and MVC architecture. Currently looking for software internship opportunities where I can contribute to real products and grow with an experienced team.
+
+📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📞 +92 343 4125573
+
+<a href="https://www.linkedin.com/in/shahroz-shafqat-profile">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 <a href="https://github.com/Shahroz-Codes">
   <img src="https://img.shields.io/github/followers/Shahroz-Codes?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" />
@@ -20,10 +25,10 @@ I build practical, user-focused web products and document what I learn along the
 
 ## About Me
 
-- 🎓 BSCS student at the University of Sargodha, graduating in 2027
+- 🎓 BS Computer Science student at the University of Sargodha, graduating in July 2027
 - 💻 Focused on the MERN stack and full-stack product development
-- 🧠 Interested in software architecture, APIs, developer tools, and products that solve real problems
-- 🌱 Currently preparing for full-stack software engineering opportunities
+- 🧠 Interested in clean API design, secure authentication, MVC architecture, and products that solve real problems
+- 🌱 Currently seeking software internship opportunities
 - 🤝 Open to internships, collaborations, freelance projects, and meaningful open-source work
 
 ## What I Build
@@ -67,6 +72,11 @@ I enjoy turning an idea into a working product from end to end:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Core Computer Science
+
+Object-oriented design · Data structures and algorithms · Database systems
 
 ### Tools
 
@@ -74,6 +84,20 @@ I enjoy turning an idea into a working product from end to end:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111827)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+
+## Certifications
+
+- [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/5BINFQ53KQ5M) — IBM, Coursera
+- [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/verify/S20ILPCURQ3V) — IBM, Coursera
+
+## Education
+
+**BS Computer Science** · University of Sargodha  
+September 2023 – July 2027
 
 ## Currently Learning
 
@@ -101,7 +125,7 @@ I enjoy turning an idea into a working product from end to end:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/Shahroz%Shafqat">
+<a href="https://www.linkedin.com/in/shahroz-shafqat-profile">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shafqatshahroz@gmail.com">
