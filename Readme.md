@@ -1,152 +1,190 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shahroz-Codes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e7490&height=180&section=header&text=Shahroz%20Shafqat&fontSize=48&fontColor=f8fafc&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Product%20Builder&descAlignY=62&descSize=18" alt="Shahroz Shafqat - Full-Stack Engineer and Product Builder" width="100%" />
 
-# Hi, I'm Shahroz Shafqat 👋
-
-### Full-Stack Developer | MERN Stack
-
-Final-year Computer Science student with hands-on experience building full-stack web applications using the MERN stack. Focused on clean API design, secure authentication, and MVC architecture. Currently looking for software internship opportunities where I can contribute to real products and grow with an experienced team.
-
-📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📞 +92 343 4125573
-
-<a href="https://www.linkedin.com/in/shahroz-shafqat-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 <a href="https://github.com/Shahroz-Codes">
-  <img src="https://img.shields.io/github/followers/Shahroz-Codes?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Shahroz-Codes&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile views" />
+</a>
+<a href="https://github.com/Shahroz-Codes?tab=followers">
+  <img src="https://img.shields.io/github/followers/Shahroz-Codes?label=FOLLOW&style=flat-square&logo=github&logoColor=white&color=0f172a" alt="GitHub followers" />
 </a>
 <a href="mailto:shafqatshahroz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shahroz" />
+  <img src="https://img.shields.io/badge/AVAILABLE%20FOR-COLLABORATION-0e7490?style=flat-square" alt="Available for collaboration" />
 </a>
 
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/shahroz-shafqat-profile">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:shafqatshahroz@gmail.com">Email</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Shahroz-Codes">GitHub</a>
+
 </div>
+
+<br />
+
+## I build software people can depend on
+
+I am a full-stack engineer focused on turning product ideas into clean, secure, and usable web applications. My work lives at the intersection of thoughtful interfaces, reliable APIs, and data models that stay understandable as a product grows.
+
+```text
+PRODUCT THINKING     →     CLEAN ARCHITECTURE     →     SHIPPED SOFTWARE
+user flows                  secure APIs                  useful outcomes
+responsive UI                tested boundaries            deployable systems
+```
+
+<div align="center">
+
+| 3 | MERN | End-to-end |
+|:---:|:---:|:---:|
+| featured products | primary stack | from idea to deployment |
+
+</div>
+
+## What I bring to a team
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Product-minded
+
+I care about the complete workflow, not just the component or endpoint in front of me. I build interfaces that make the next action obvious.
+
+</td>
+<td width="33%" valign="top">
+
+### Backend-aware
+
+I design REST APIs with validation, authentication, ownership checks, and a clear separation between routes, controllers, and middleware.
+
+</td>
+<td width="33%" valign="top">
+
+### Built to ship
+
+I work comfortably across frontend, backend, databases, Git, and deployment platforms to move a feature from a blank page to a working release.
+
+</td>
+</tr>
+</table>
+
+## Selected work
+
+### 01 · Freelancer Workspace
+
+**A focused operating system for freelance work.** Manage projects and tasks with secure authentication, ownership-level access control, and a REST API designed around real workflows.
+
+`MERN` `JWT` `httpOnly cookies` `Zustand` `Tailwind CSS` `MVC`
+
+<a href="https://github.com/Shahroz-Codes/Freelancer-Workspace">View repository →</a>
 
 ---
 
-## About Me
+### 02 · TownSquare
 
-- 🎓 BS Computer Science student at the University of Sargodha, graduating in July 2027
-- 💻 Focused on the MERN stack and full-stack product development
-- 🧠 Interested in clean API design, secure authentication, MVC architecture, and products that solve real problems
-- 🌱 Currently seeking software internship opportunities
-- 🤝 Open to internships, collaborations, freelance projects, and meaningful open-source work
+**A digital town square for local communities.** Discover events, post volunteer opportunities, share feedback, and give administrators the tools to understand activity through a dedicated dashboard.
 
-## What I Build
+`React` `Vite` `Redux Toolkit` `Appwrite` `Vercel` `role-based access`
 
-I enjoy turning an idea into a working product from end to end:
+<a href="https://github.com/Shahroz-Codes/TownSquare">View repository →</a>
 
-- Responsive interfaces with thoughtful user flows
-- REST APIs with authentication, validation, and role-based access control
-- Data models and backend systems that are simple to maintain
-- Dashboards and tools that make complicated workflows easier
-- Projects that are useful beyond a tutorial or code sample
+---
 
-## Featured Projects
+### 03 · BlogVerse
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [StudyRoom](https://github.com/Shahroz-Codes/StudyRoom) | Study groups and event RSVP platform for students | Next.js, Node.js, MongoDB |
-| [Freelancer Workspace](https://github.com/Shahroz-Codes/Freelancer-Workspace) | Project and task management with ownership-level RBAC | React, Express, MongoDB |
-| [TownSquare](https://github.com/Shahroz-Codes/TownSquare) | TownSquare feels like a digital version of what a real town square used to be: a place where people gather, share updates, post notices, ask for help, and make …
- | React, Express, MongoDB |
+**A modern publishing experience for creating and managing ideas.** Write with a rich-text editor, navigate smoothly, and manage posts with ownership-aware edit and delete controls.
 
-> Replace the links, descriptions, and stack names above. Lead with your three strongest projects, not every project you have made.
+`React` `Vite` `Redux Toolkit` `Appwrite` `Tailwind CSS`
 
-## Tech Stack
+<a href="https://github.com/Shahroz-Codes/BlogVerse">View repository →</a>
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend and Data
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Core Computer Science
-
-Object-oriented design · Data structures and algorithms · Database systems
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111827)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
-
-## Certifications
-
-- [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/5BINFQ53KQ5M) — IBM, Coursera
-- [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/verify/S20ILPCURQ3V) — IBM, Coursera
-
-## Education
-
-**BS Computer Science** · University of Sargodha  
-September 2023 – July 2027
-
-## Currently Learning
-
-- Advanced TypeScript and scalable backend architecture
-- Testing, CI/CD, and production deployment
-- System design fundamentals
-- Better technical writing and open-source collaboration
-
-## GitHub Activity
+## Technical toolkit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahroz-Codes&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Shahroz's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahroz-Codes&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Shahroz's most used languages" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
+<details>
+<summary><strong>More of the toolkit</strong></summary>
+
+<br />
+
+`REST API Design` · `JWT` · `MVC` · `RBAC` · `Data Structures` · `OOP` · `Database Systems` · `Postman` · `Vite` · `Render` · `Appwrite` · `VS Code`
+
+</details>
+
+## Engineering principles
+
+> **Make the interface clear.** Users should not need to study the product to use it.
+
+> **Keep boundaries honest.** Authentication, validation, and authorization belong in deliberate layers.
+
+> **Ship the useful version.** A small working product creates better feedback than a perfect unfinished one.
+
+## Credentials
+
+<table>
+<tr>
+<td><strong>BS Computer Science</strong><br />University of Sargodha<br /><sub>September 2023 – July 2027</sub></td>
+<td><strong>Git and GitHub</strong><br /><a href="https://www.coursera.org/account/accomplishments/verify/5BINFQ53KQ5M">IBM · Coursera</a></td>
+<td><strong>Front-End Apps with React</strong><br /><a href="https://www.coursera.org/account/accomplishments/verify/S20ILPCURQ3V">IBM · Coursera</a></td>
+</tr>
+</table>
+
+## GitHub activity
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahroz-Codes&hide_border=true&theme=default" alt="Shahroz's GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahroz-Codes&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0e7490&icon_color=0e7490&text_color=334155&bg_color=ffffff" alt="Shahroz's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahroz-Codes&layout=compact&hide_border=true&langs_count=8&title_color=0e7490&text_color=334155&bg_color=ffffff" alt="Shahroz's most used languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahroz-Codes&hide_border=true&ring=0e7490&fire=f59e0b&currStreakLabel=0e7490&sideLabels=334155&dates=64748b" alt="Shahroz's GitHub contribution streak" />
 
 </div>
 
-## Let's Connect
+## Start a conversation
+
+I’m interested in ambitious products, thoughtful engineering teams, and collaborations where the work has a real user on the other side.
 
 <div align="center">
+
+<a href="mailto:shafqatshahroz@gmail.com"><strong>shafqatshahroz@gmail.com</strong></a>
+
+Lahore, Punjab, Pakistan &nbsp;·&nbsp; +92 343 4125573
+
+<br />
+<br />
 
 <a href="https://www.linkedin.com/in/shahroz-shafqat-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 <a href="mailto:shafqatshahroz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shahroz" />
+  <img src="https://img.shields.io/badge/Email-Say%20hello-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
-<!-- <a href="https://YOUR_PORTFOLIO_URL.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> -->
-</a>
+
+<br />
+<br />
+
+<sub>Build with intent. Ship with care.</sub>
 
 </div>
 
-<div align="center">
-
-### "Building things that solve real problems, one commit at a time."
-
-</div>
-
-<!--
-Customization checklist:
-1. Replace every YOUR_... placeholder with your real information.
-2. Update the project links and descriptions with measurable outcomes.
-3. Remove technologies you are not comfortable claiming yet.
-4. Add a resume link, profile banner, or contribution graph when ready.
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:0f172a&height=100&section=footer" alt="" width="100%" />
