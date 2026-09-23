@@ -15,11 +15,18 @@
 <br />
 <br />
 
-<a href="https://www.linkedin.com/in/shahroz-shafqat-profile">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:shafqatshahroz@gmail.com">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Shahroz-Codes">GitHub</a>
+<a href="https://www.linkedin.com/in/shahroz-shafqat-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:shafqatshahroz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Shahroz-Codes">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://wa.me/923434125573">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 
 </div>
 
@@ -41,9 +48,20 @@ I am a full-stack engineer focused on turning product ideas into clean, secure, 
 
 ### 01 · StudyRoom
 
-**A collaborative study and event platform for students.** Discover study groups, join focused learning spaces, and RSVP to events through a modern full-stack experience.
+**A full-stack study-group collaboration platform.** Users can create groups, schedule study sessions, and manage attendance through RSVPs. The product includes authentication, protected APIs, relational PostgreSQL data, validation, and a responsive dashboard.
 
-`Next.js` `TypeScript` `Node.js` `MongoDB`
+**Tech stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&logo=tailwindcss&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js%20%2F%20NextAuth-111827?style=flat-square&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 <a href="https://github.com/Shahroz-Codes/StudyRoom">View repository →</a>
 
@@ -53,7 +71,13 @@ I am a full-stack engineer focused on turning product ideas into clean, secure, 
 
 **A focused operating system for freelance work.** Manage projects and tasks with secure authentication, ownership-level access control, and a REST API designed around real workflows.
 
-`MERN` `JWT` `httpOnly cookies` `Zustand` `Tailwind CSS` `MVC`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&logo=tailwindcss&logoColor=white)
 
 <a href="https://github.com/Shahroz-Codes/Freelancer-Workspace">View repository →</a>
 
@@ -63,7 +87,11 @@ I am a full-stack engineer focused on turning product ideas into clean, secure, 
 
 **A digital town square for local communities.** Discover events, post volunteer opportunities, share feedback, and give administrators the tools to understand activity through a dedicated dashboard.
 
-`React` `Vite` `Redux Toolkit` `Appwrite` `Vercel` `role-based access`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
 
 <a href="https://github.com/Shahroz-Codes/TownSquare">View repository →</a>
 
@@ -146,6 +174,9 @@ Lahore, Punjab, Pakistan &nbsp;·&nbsp; +92 343 4125573
 </a>
 <a href="mailto:shafqatshahroz@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20hello-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+</a>
+<a href="https://wa.me/923434125573">
+  <img src="https://img.shields.io/badge/WhatsApp-Talk%20to%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Talk on WhatsApp" />
 </a>
 
 <br />
