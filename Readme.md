@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm Shahroz 👋
+# Hi, I'm Shahroz Shafqat 👋
 
-### Full-Stack Developer | MERN Stack | Computer Science Student
+### Full-Stack Developer
 
 I build practical, user-focused web products and document what I learn along the way.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" />
+<a href="https://github.com/Shahroz-Codes">
+  <img src="https://img.shields.io/github/followers/Shahroz-Codes?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:shafqatshahroz@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shahroz" />
 </a>
 
@@ -23,7 +23,6 @@ I build practical, user-focused web products and document what I learn along the
 - 💻 Focused on the MERN stack and full-stack product development
 - 🧠 Interested in software architecture, APIs, developer tools, and products that solve real problems
 - 🌱 Currently preparing for full-stack software engineering opportunities
-- 🚀 Long-term goal: build a technology company creating high-impact solutions in Pakistan
 - 🤝 Open to internships, collaborations, freelance projects, and meaningful open-source work
 
 ## What I Build
@@ -40,9 +39,10 @@ I enjoy turning an idea into a working product from end to end:
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [PeerUp](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PEERUP_REPO) | Study groups and event RSVP platform for students | Next.js, Node.js, MongoDB |
-| [Freelancer Workspace](https://github.com/YOUR_GITHUB_USERNAME/YOUR_FREELANCER_REPO) | Project and task management with ownership-level RBAC | React, Express, MongoDB |
-| [Your Next Project](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO) | Replace this with your strongest project and its measurable outcome | Your stack here |
+| [StudyRoom](https://github.com/Shahroz-Codes/StudyRoom) | Study groups and event RSVP platform for students | Next.js, Node.js, MongoDB |
+| [Freelancer Workspace](https://github.com/Shahroz-Codes/Freelancer-Workspace) | Project and task management with ownership-level RBAC | React, Express, MongoDB |
+| [TownSquare](https://github.com/Shahroz-Codes/TownSquare) | TownSquare feels like a digital version of what a real town square used to be: a place where people gather, share updates, post notices, ask for help, and make …
+ | React, Express, MongoDB |
 
 > Replace the links, descriptions, and stack names above. Lead with your three strongest projects, not every project you have made.
 
