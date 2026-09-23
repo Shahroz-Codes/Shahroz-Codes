@@ -5,7 +5,8 @@
 ### Full-Stack Developer
 
 I build practical, user-focused web products and document what I learn along the way.
-
+<a href="https://www.linkedin.com/in/Shahroz%Shafqat">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 <a href="https://github.com/Shahroz-Codes">
   <img src="https://img.shields.io/github/followers/Shahroz-Codes?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" />
 </a>
@@ -85,14 +86,14 @@ I enjoy turning an idea into a working product from end to end:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Shahroz's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Shahroz's most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahroz-Codes&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Shahroz's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahroz-Codes&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Shahroz's most used languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=default" alt="Shahroz's GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahroz-Codes&hide_border=true&theme=default" alt="Shahroz's GitHub contribution streak" />
 
 </div>
 
@@ -100,14 +101,14 @@ I enjoy turning an idea into a working product from end to end:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/Shahroz%Shafqat">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:shafqatshahroz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shahroz" />
 </a>
-<a href="https://YOUR_PORTFOLIO_URL.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<!-- <a href="https://YOUR_PORTFOLIO_URL.com">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> -->
 </a>
 
 </div>
