@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e7490&height=180&section=header&text=Shahroz%20Shafqat&fontSize=48&fontColor=f8fafc&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Product%20Builder&descAlignY=62&descSize=18" alt="Shahroz Shafqat - Full-Stack Engineer and Product Builder" width="100%" />
 
-<a href="https://github.com/Shahroz-Codes">
-  <img src="https://komarev.com/ghpvc/?username=Shahroz-Codes&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile views" />
-</a>
 <a href="https://github.com/Shahroz-Codes?tab=followers">
   <img src="https://img.shields.io/github/followers/Shahroz-Codes?label=FOLLOW&style=flat-square&logo=github&logoColor=white&color=0f172a" alt="GitHub followers" />
 </a>
@@ -31,6 +28,9 @@
 </div>
 
 <br />
+<a href="https://github.com/Shahroz-Codes">
+  <img src="https://komarev.com/ghpvc/?username=Shahroz-Codes&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile views" />
+</a>
 
 ## I build software people can depend on
 
