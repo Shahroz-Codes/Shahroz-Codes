@@ -33,18 +33,12 @@
 <a href="https://github.com/Shahroz-Codes">
   <img src="https://komarev.com/ghpvc/?username=Shahroz-Codes&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile views" />
 </a>
-</div>
+</div> 
+
 ## I build software people can depend on
 
 I am a full-stack engineer focused on turning product ideas into clean, secure, and usable web applications. My work lives at the intersection of thoughtful interfaces, reliable APIs, and data models that stay understandable as a product grows.
 
-<div align="center">
-
-| 3 | MERN | End-to-end |
-|:---:|:---:|:---:|
-| featured products | primary stack | from idea to deployment |
-
-</div>
 
 ## Selected work
 
